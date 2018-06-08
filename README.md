@@ -3,7 +3,7 @@ codeofconduct
 
 #### City of Asheville's Community Data Engagement Code of Conduct
 
-The City of Asheville Community Data Engagment digital forum:
+The City of Asheville Community Data Engagement digital forum:
 
 1. Is a safe and respectful environment for all participants.
 2. Is a place where people are free to fully express their identities.
